@@ -52,7 +52,6 @@ Passionate coder and fast learner, self-driven and detail-oriented. Skilled at t
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,gitlab,nginx,grafana,neovim,bash,makefile" alt="devops" />
   </a>
 </p>
-<hr/>
 
 ## 📈 My github stats
 <div align="center">  
