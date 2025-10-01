@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&center=true&size=32&vCenter=true&height=80&lines=👋🏻+Hi,+I'm+CyberLoomTech;Senior+Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Developer;" alt="title" /> 
 </p>
-<hr/>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=cyberloomTech&label=Profile%20views&color=0e75b6&style=social" alt="cyberloomTechViews" /> 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=cyberloomTech.cyberloomTech" alt="cyberloomTechVisitors" />
