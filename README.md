@@ -30,7 +30,7 @@ Passionate coder and fast learner, self-driven and detail-oriented. Skilled at t
 <p align="left">Languages & frameworks</p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,cpp,python,nodejs,nestjs,deno,go,rust," alt="languages & frameworks"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,cpp,python,nodejs,nestjs,deno,go,rust,materialui" alt="languages & frameworks"/>
   </a>
 </p>
 <p align="left">
