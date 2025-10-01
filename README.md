@@ -1,9 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=80&lines=👋🏻+Hi,+I'm+David+Smith;Senior+Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Developer;)](https://git.io/typing-svg)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=cyberloomTech&label=Profile%20views&color=0e75b6&style=flat" alt="cyberloomTechViews" /> 
+<img src="https://komarev.com/ghpvc/?username=cyberloomTech&label=Profile%20views&color=0e75b6&style=social" alt="cyberloomTechViews" /> 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=cyberloomTech.cyberloomTech" alt="cyberloomTechVisitors" />
-<img src="https://img.shields.io/github/followers/cyberloomTech" alt="cyberloomTechFollowers" />
+<img src="https://img.shields.io/github/followers/cyberloomTech?label=Followers&style=social" />
 </p>
 
 I'm a **Senior Full-Stack Developer** with **7+ years** of experience.
