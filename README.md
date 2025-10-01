@@ -1,18 +1,30 @@
-# 👋 Hello! My name is David Smith. 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=👋🏻+Hi,+I'm+David+Smith;Senior+Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Developer;)](https://git.io/typing-svg)
 
-## Senior Software Developer
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=victory19960909&label=Profile%20views&color=0e75b6&style=flat" alt="victory19960909" /> 
+<img src="https://img.shields.io/github/followers/victory19960909" alt="victory19960909" /> 
+</p>
 
 I'm a **Senior Full-Stack Developer** with **7+ years** of experience.
 Passionate coder and fast learner, self-driven and detail-oriented. Skilled at taking initiative, solving problems, and continuously improving to deliver high-quality results.
 
-### 💡 What I Love  
-- 🧩 Solving complex challenges  
-- 🧼 Writing clean, maintainable code  
+## 💡 What I Love  
+
+- 🧩 Solving complex challenges
+
+- 💫 Passionate about learning & development to reach the target.
+
+- 🧼 Writing clean, maintainable code 
+
 - 🚀 Delivering scalable, user-friendly solutions  
+
 - ❤️ Putting clients first  
+
 - 📈 Continuous improvement & growth  
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+- 💥 I would love to build some Giant Website.
+
+## My Tech Stack
 
 <p align="left">Languages & frameworks</p>
 <p align="left">
@@ -40,5 +52,12 @@ Passionate coder and fast learner, self-driven and detail-oriented. Skilled at t
 <hr/>
 
 ## 📈 My github stats
+<div align="center">  
+    <img src="https://github-readme-stats.vercel.app/api?username=victory19960909&show_icons=true&theme=radical" alt="" />
+</div>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=victory19960909&show_icons=true&theme=radical)
+## 📊 Language Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victory19960909&layout=donut-vertical&theme=transparent&border_color=454545" alt="" />
+</div>
