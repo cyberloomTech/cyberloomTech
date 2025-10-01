@@ -1,8 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=👋🏻+Hi,+I'm+David+Smith;Senior+Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Developer;)](https://git.io/typing-svg)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=victory19960909&label=Profile%20views&color=0e75b6&style=flat" alt="victory19960909" /> 
-<img src="https://img.shields.io/github/followers/victory19960909" alt="victory19960909" /> 
+<img src="https://komarev.com/ghpvc/?username=cyberloomTech&label=Profile%20views&color=0e75b6&style=flat" alt="cyberloomTech" /> 
+<img src="https://img.shields.io/github/followers/cyberloomTech" alt="cyberloomTech" /> 
 </p>
 
 I'm a **Senior Full-Stack Developer** with **7+ years** of experience.
@@ -53,11 +53,11 @@ Passionate coder and fast learner, self-driven and detail-oriented. Skilled at t
 
 ## 📈 My github stats
 <div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api?username=victory19960909&show_icons=true&theme=radical" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cyberloomTech&show_icons=true&theme=radical" alt="" />
 </div>
 
 ## 📊 Language Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victory19960909&layout=donut-vertical&theme=transparent&border_color=454545" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberloomTech&layout=donut-vertical&theme=transparent&border_color=454545" alt="" />
 </div>
