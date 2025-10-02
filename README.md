@@ -55,11 +55,11 @@ Passionate coder and fast learner, self-driven and detail-oriented. Skilled at t
 
 ## 📈 My github stats
 <div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api?username=cyberloomTech&show_icons=true&theme=radical" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cyberloomTech&show_icons=true&theme=tokyonight" alt="mygithubstats" />
 </div>
 
 ## 📊 Language Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberloomTech&layout=donut-vertical&theme=transparent&border_color=454545" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberloomTech&layout=donut-vertical&theme=transparent&border_color=454545" alt="LanguageStats" />
 </div>
