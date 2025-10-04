@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&center=true&size=32&vCenter=true&height=80&lines=👋🏻+Hi,+I'm+CyberLoomTech;Senior+Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Developer;" alt="title" /> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&center=true&size=32&vCenter=true&height=80&pause=100&duration=4000&lines=👋🏻+Hi,+I'm+CyberLoomTech;Senior+Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Developer;" alt="title" /> 
 </p>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=cyberloomTech&label=Profile%20views&color=0e75b6&style=social" alt="cyberloomTechViews" /> 
