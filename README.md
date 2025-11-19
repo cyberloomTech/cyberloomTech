@@ -23,19 +23,18 @@ Passionate coder and fast learner, self-driven and detail-oriented. Skilled at t
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,angular,tailwind,bootstrap,sass" alt="frontend" >
   </a>
 </p>
-<p align="left">📱 Mobile
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,java,kotlin,gradle," alt="mobile" >
-  </a>
-</p>
 <p align="left">🧩 Backend</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,nest,php,laravel,python,django,go" alt="backend" />
   </a>
 </p>
-
+<p align="left">📱 Mobile
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,java,kotlin,gradle," alt="mobile" >
+  </a>
+</p>
 <p align="left">🗄️ Databases</p>
 <p align="center">
   <a href="https://skillicons.dev">
