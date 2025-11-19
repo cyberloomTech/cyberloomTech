@@ -32,7 +32,7 @@ Passionate coder and fast learner, self-driven and detail-oriented. Skilled at t
 <p align="left">📱 Mobile
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,java,kotlin,gradle," alt="mobile" >
+    <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,java,kotlin,gradle" alt="mobile" >
   </a>
 </p>
 <p align="left">🗄️ Databases</p>
