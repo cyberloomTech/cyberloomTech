@@ -1,52 +1,32 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&center=true&size=32&vCenter=true&height=80&pause=100&duration=3000&lines=👋+Welcome+to+my+Profile;Full+Stack+Developer;Mobile+App+Developer;Blockchain+Developer;" alt="title" /> 
+# Hi, I’m @cyberloomTech 👋
 
-## 💡 Who I am  
-Passionate coder and fast learner, self-driven and detail-oriented. Skilled at taking initiative, solving problems, and continuously improving to deliver high-quality results.
+## 🚀 About Me  
+I’m a Senior Software Developer with deep experience in full-stack development, API design, and mobile app performance. I build scalable, maintainable systems and focus on delivering high-quality products that are efficient, secure, and easy to use.
 
-### Key Strengths:
+## 👀 Interests
 
-- 🧩 Solving complex challenges
+- Learning new Tech
+- Coding
+- Gaming
+- Football
+- Swimming
 
-- 💫 Passionate about learning & development to reach the target.
-- 🧼 Writing clean, maintainable code 
-- 🚀 Delivering scalable, user-friendly solutions  
-- ❤️ Prioritizing client satisfaction 
-- 📈 Committed to continuous improvement and growth
-- 💥 Excited to build large-scale, impactful websites
+## 🔨 Tech Stack
 
-## 🚀 Tech Stack
+**Languages:** JavaScript, TypeScript, PHP, Python, Dart, Kotlin, Solidity, Rust<br/>
+**Frameworks:** React, Next.js, Vue, Node.js, Express, NestJS, Laravel, Flutter, Hardhat, Foundry, Web3.js, Ethers.js<br/>
+**Technologies:** MySQL, PostgreSQL, MongoDB, Redis, Docker, AWS, NGINX, Git, CI/CD, smart contracts, Web3 integration
 
-<p align="left">🎨 Frontend</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,angular,tailwind,bootstrap,sass" alt="frontend" >
-  </a>
-</p>
-<p align="left">🧩 Backend</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,php,laravel,python,django,go" alt="backend" />
-  </a>
-</p>
-<p align="left">📱 Mobile
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,java,kotlin,gradle" alt="mobile" >
-  </a>
-</p>
-<p align="left">🗄️ Databases</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch" alt="databases" />
-  </a>
-</p>
-<p align="left">⚙️ DevOps & Tools</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,nginx,bash" alt="devops" />
-  </a>
-</p>
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=cyberloomTech&label=Profile%20views&color=0e75b6&style=social" alt="cyberloomTechViews" /> 
-</p>
+## 🌟 Key Contributions
+
+- **Full-Stack Development Expertise:** Contributed to multiple client projects, delivering both frontend and backend solutions with a focus on performance and usability.
+- **Practical Problem Solving:** Developed efficient solutions to technical challenges, improving application stability and user experience.
+- **Team Collaboration:** Worked closely with designers, developers, and stakeholders to ensure smooth integration between frontend, backend, and blockchain components.
+- **Focus on Security and Reliability:** Implemented best practices for secure coding and scalable architecture, ensuring platforms handle growth and user data safely.
+- **Knowledge Sharing:** Assisted team members by sharing practical insights in web and blockchain development, helping improve code quality and development workflows.
+
+## 📫 Contact Me
+
+- Phone: +1 725 242 3760
+- Discord: @powertech0821
+- Telegram: @tonsea54
