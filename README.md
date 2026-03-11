@@ -27,6 +27,6 @@ I’m a Senior Software Developer with deep experience in full-stack development
 
 ## 📫 Contact Me
 
-- Phone: +1 725 242 3760
+- WhatsApp: +1 (862) 239-2574
+- Telegram: @devdavr6
 - Discord: @powertech0821
-- Telegram: @tonsea54
