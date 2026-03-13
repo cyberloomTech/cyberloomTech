@@ -25,8 +25,3 @@ I’m a Senior Software Developer with deep experience in full-stack development
 - **Focus on Security and Reliability:** Implemented best practices for secure coding and scalable architecture, ensuring platforms handle growth and user data safely.
 - **Knowledge Sharing:** Assisted team members by sharing practical insights in web and blockchain development, helping improve code quality and development workflows.
 
-## 📫 Contact Me
-
-- WhatsApp: +1 (862) 239-2574
-- Telegram: @devdavr6
-- Discord: @powertech0821
